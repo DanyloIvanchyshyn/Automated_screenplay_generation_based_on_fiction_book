@@ -131,5 +131,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-*.html linguist-detectable=false
-*.ipynb linguist-detectable=true
+* linguist-vendored
+*.html linguist-vendored=false
